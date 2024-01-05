@@ -1,0 +1,1 @@
+nohup python run.py --config configs/train/main.json > logs/mt5_main.txt &
